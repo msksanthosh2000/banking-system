@@ -50,6 +50,6 @@ public class AccountController {
 
     @DeleteMapping
     public ResponseEntity<String> deleteAccountById(Long id) {
-        return ResponseEntity.ok(accountService.deleteAccount(id));
+        return ResponseEntity.ok(accountService.deleteAccountById(id));
     }
 }
