@@ -1,4 +1,4 @@
-# Banking-App
+# Banking-system
 
 This repository contains a banking application built with Spring Boot, showcasing RESTful APIs for managing accounts. It demonstrates key concepts such as Spring Data JPA, and structured architecture with Controller, Repository, and Data Transfer Objects (DTOs). Account details are stored in a MySQL relational database.
 
